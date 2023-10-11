@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace VendingMachineCLI
 {
-    internal class Munchy
+    internal class VendingMachine
     {
     }
 }

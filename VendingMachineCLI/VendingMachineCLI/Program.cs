@@ -1,4 +1,11 @@
-﻿namespace VendingMachineCLI
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+namespace VendingMachineCLI
 {
     public class VendingMachineCLI
     {
@@ -6,8 +13,6 @@
         {
 
 
-            int number = 1;
-            Console.WriteLine(number);
             Console.ReadLine();
         }   
 
