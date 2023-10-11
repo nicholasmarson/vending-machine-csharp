@@ -1,0 +1,14 @@
+E:\workspace\vending-machine-csharp\VendingMachineCLI\VendingMachineCLI\bin\Debug\net6.0\VendingMachineCLI.exe
+E:\workspace\vending-machine-csharp\VendingMachineCLI\VendingMachineCLI\bin\Debug\net6.0\VendingMachineCLI.deps.json
+E:\workspace\vending-machine-csharp\VendingMachineCLI\VendingMachineCLI\bin\Debug\net6.0\VendingMachineCLI.runtimeconfig.json
+E:\workspace\vending-machine-csharp\VendingMachineCLI\VendingMachineCLI\bin\Debug\net6.0\VendingMachineCLI.dll
+E:\workspace\vending-machine-csharp\VendingMachineCLI\VendingMachineCLI\bin\Debug\net6.0\VendingMachineCLI.pdb
+E:\workspace\vending-machine-csharp\VendingMachineCLI\VendingMachineCLI\obj\Debug\net6.0\VendingMachineCLI.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\vending-machine-csharp\VendingMachineCLI\VendingMachineCLI\obj\Debug\net6.0\VendingMachineCLI.AssemblyInfoInputs.cache
+E:\workspace\vending-machine-csharp\VendingMachineCLI\VendingMachineCLI\obj\Debug\net6.0\VendingMachineCLI.AssemblyInfo.cs
+E:\workspace\vending-machine-csharp\VendingMachineCLI\VendingMachineCLI\obj\Debug\net6.0\VendingMachineCLI.csproj.CoreCompileInputs.cache
+E:\workspace\vending-machine-csharp\VendingMachineCLI\VendingMachineCLI\obj\Debug\net6.0\VendingMachineCLI.dll
+E:\workspace\vending-machine-csharp\VendingMachineCLI\VendingMachineCLI\obj\Debug\net6.0\refint\VendingMachineCLI.dll
+E:\workspace\vending-machine-csharp\VendingMachineCLI\VendingMachineCLI\obj\Debug\net6.0\VendingMachineCLI.pdb
+E:\workspace\vending-machine-csharp\VendingMachineCLI\VendingMachineCLI\obj\Debug\net6.0\VendingMachineCLI.genruntimeconfig.cache
+E:\workspace\vending-machine-csharp\VendingMachineCLI\VendingMachineCLI\obj\Debug\net6.0\ref\VendingMachineCLI.dll
