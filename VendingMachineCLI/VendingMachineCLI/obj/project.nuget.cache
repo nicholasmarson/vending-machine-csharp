@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sglehBC+W/qhjV0+y6luwMm3dtLK2cjJY6N+xdMW5RESJTDZu1aUBEmZBaD299JC4CGWwDWkcjaxRh1GhMlTMw==",
+  "dgSpecHash": "0p03nFtNqFBOuKiD+bZfRkK5LLXj4X2wNfdr38rjvx0LMspfenmD35gBkTh80EAXNHM7Ad+BBfbdT1f7dfza0g==",
   "success": true,
-  "projectFilePath": "E:\\workspace\\vending-machine-csharp\\VendingMachineCLI\\VendingMachineCLI\\VendingMachineCLI.csproj",
+  "projectFilePath": "/Users/nicholasmarson/Desktop/workspace/vending-machine-csharp/VendingMachineCLI/VendingMachineCLI/VendingMachineCLI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\workspace\\vending-machine-csharp\\VendingMachineCLI\\VendingMachineCLI\\VendingMachineCLI.csproj": {}
+    "/Users/nicholasmarson/Desktop/workspace/vending-machine-csharp/VendingMachineCLI/VendingMachineCLI/VendingMachineCLI.csproj": {}
   },
   "projects": {
-    "E:\\workspace\\vending-machine-csharp\\VendingMachineCLI\\VendingMachineCLI\\VendingMachineCLI.csproj": {
+    "/Users/nicholasmarson/Desktop/workspace/vending-machine-csharp/VendingMachineCLI/VendingMachineCLI/VendingMachineCLI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\workspace\\vending-machine-csharp\\VendingMachineCLI\\VendingMachineCLI\\VendingMachineCLI.csproj",
+        "projectUniqueName": "/Users/nicholasmarson/Desktop/workspace/vending-machine-csharp/VendingMachineCLI/VendingMachineCLI/VendingMachineCLI.csproj",
         "projectName": "VendingMachineCLI",
-        "projectPath": "E:\\workspace\\vending-machine-csharp\\VendingMachineCLI\\VendingMachineCLI\\VendingMachineCLI.csproj",
-        "packagesPath": "C:\\Users\\nmugm\\.nuget\\packages\\",
-        "outputPath": "E:\\workspace\\vending-machine-csharp\\VendingMachineCLI\\VendingMachineCLI\\obj\\",
+        "projectPath": "/Users/nicholasmarson/Desktop/workspace/vending-machine-csharp/VendingMachineCLI/VendingMachineCLI/VendingMachineCLI.csproj",
+        "packagesPath": "/Users/nicholasmarson/.nuget/packages/",
+        "outputPath": "/Users/nicholasmarson/Desktop/workspace/vending-machine-csharp/VendingMachineCLI/VendingMachineCLI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nmugm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/nicholasmarson/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
         }
       }
     }

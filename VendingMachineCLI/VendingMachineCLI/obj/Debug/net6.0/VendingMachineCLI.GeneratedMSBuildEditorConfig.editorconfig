@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VendingMachineCLI
-build_property.ProjectDir = E:\workspace\vending-machine-csharp\VendingMachineCLI\VendingMachineCLI\
+build_property.ProjectDir = /Users/nicholasmarson/Desktop/workspace/vending-machine-csharp/VendingMachineCLI/VendingMachineCLI/
