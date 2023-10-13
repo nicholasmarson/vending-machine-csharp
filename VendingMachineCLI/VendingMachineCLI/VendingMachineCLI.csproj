@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Inventory\" />
+    <None Remove="FileManaging\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Inventory\" />
+    <Folder Include="FileManaging\" />
+  </ItemGroup>
 </Project>
